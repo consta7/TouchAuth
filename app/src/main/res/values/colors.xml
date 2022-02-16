@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- for black theme -->
+    <color name="night001">#9FA0FF</color>
+    <color name="night002">#8E94F2</color>
+    <color name="night003">#8187DC</color>
+    <color name="night004">#757BC8</color>
+    <!-- for white theme -->
+    <color name="light001">#757BC8</color>
+    <color name="light002">#8187DC</color>
+    <color name="light003">#8E94F2</color>
+    <color name="light004">#9FA0FF</color>
+
+    <color name="yellow">#FFDB4D</color>
+    <color name="orange">#ffc626</color>
+    <color name="brown">#ca7b19</color>
+    <color name="black_light">#313031</color>
+    <color name="black_light_40_opacity">#64313031</color>
+    <color name="dark_gray">#7a7a7a</color>
+    <color name="gray_medium">#cccccc</color>
+    <color name="gray">#e2e2e2</color>
+    <color name="dark_red">#d12a2a</color>
+    <color name="green_highlight">#2ad168</color>
+    <color name="green_highlight_semi_transparent">#b32ad168</color>
+    <color name="shadow_yellow">#85d58a00</color>
+    <color name="green">#a9db7a</color>
+    <color name="blue">#7e97fc</color>
+    <color name="gray_background_item_disabled">#e4e4e4</color>
+    <color name="gray_background_item">#f8f8f8</color>
+    <color name="light_gray">#F1F1F1</color>
+    <color name="yellow_back">#ffe02c</color>
+</resources>
